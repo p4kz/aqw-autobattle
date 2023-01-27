@@ -1,10 +1,16 @@
-## How to use Auto Battle
+# Adventure Quest Worlds Auto Battle
+  Simple code to automate Adventure Quest Worlds battles choose your farm class and follow the instructions below.
+
+## 📌 Class
+  - [Legion Revenant](./legion_revenant.py)
+
+## 📜 How to use Auto Battle
   - (1) Install [Anaconda](https://www.anaconda.com/).
   - (2) Start Jupyter Notebook.
   - (3) Create new code file in Jupyter.
   - (4) Install pyautogui, paste in Jupyter `"pip install pyautogui"`
   - (5) Copy on your class code and paste into Jupyter.
 
-## Warning
+## ⚠️ Warning
   - Leave the game window at the top left of your monitor.
   - Don't forget to replace `"AMOUNT"` with the number of monsters you want the script to kill. 
